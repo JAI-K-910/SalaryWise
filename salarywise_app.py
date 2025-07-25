@@ -29,7 +29,7 @@ body {
     box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
 }
 h1, h2, h3 {
-    color: #FFD700; /* Neon Gold */
+    color: #e0e0e0; /* Soft White */
     font-family: 'Lato', sans-serif;
     font-weight: 700;
     text-align: center;
